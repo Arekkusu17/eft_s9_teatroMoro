@@ -1,0 +1,34 @@
+
+CASOS INGRESADOS
+
+Cliente: Juan
+Edad: 16
+Género: hombre
+Categoría ingresada: ninguno
+
+Cliente: Luis
+Edad: 22
+Género: hombre
+Categoría ingresada: estudiante
+
+Cliente: Marta
+Edad: 35
+Género: mujer
+Categoría ingresada: ninguno
+
+Cliente: Pedro
+Edad: 70
+Género: hombre
+Categoría ingresada: tercera edad
+
+Cliente: Carlos
+Edad: 49
+Género: hombre
+Categoría ingresada: ninguno
+
+
+CASO POR INGRESAR
+Cliente: Ana
+Edad: 14
+Género: mujer
+Categoría ingresada: ninguno
